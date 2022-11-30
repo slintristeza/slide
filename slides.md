@@ -36,7 +36,7 @@ layout: center
 # 主キーとは
 
 こんなやつ
-![img](/img/img1.png)
+![img](/img1.png)
 
 ---
 
